@@ -33,4 +33,4 @@ edu.escuelaing.arsw.OODesignTest
 ![](Resources/img/doc3.PNG)
 ![](Resources/img/doc4.PNG)
 # Licencia
-Este proyecto esta bajo Licencia de uso libre  para mas informacion
+Este proyecto esta bajo Licencia de uso libre https://raw.githubusercontent.com/DrLolo03/OODesign/master/LICENSE.
